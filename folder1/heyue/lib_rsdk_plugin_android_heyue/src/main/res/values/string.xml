@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- sdk相關參數配置 -->
+    
+    <!-- sdk內部使用的game name -->
+    <string name="game_name">官斗</string>
+    <!-- 遊戲的gamecode -->
+    <string name="hy_gamecode">GD</string>
+    <!-- 遊戲平台 -->
+    <string name="hy_platform">Google</string>
+     <!-- 控制gp儲值是否顯示，1為顯示（默認），0為隱藏 -->
+    <string name="gp_pay_enable">1</string>
+    <!-- 當伺服器用遊戲方的時候，這個參數可以設置在登錄時獲取不到伺服器信息不跳轉到hy的伺服器頁面，1為顯示（默認），0為隱藏 -->
+    <string name="hy_server_enable">0</string>
+    <!-- 1表示接入bugly，0表示不接入，默認為1，如果遊戲也有接入，那麼就不用接入sdk的bugly了，以免衝突,bugly SDK使用注意詳情請看文檔 -->
+     <string name="bugly_enable">1</string>
+     <!-- 1表示接入firebase，0表示不接入，默认不接入，除非有要求接入firebase -->
+     <string name="firebase_enable">0</string>
+    
+    <!-- 其它頁面的方向 -->
+    <string name="hy_orientation">7</string>
+    <!-- 登錄頁面的方向 -->
+    <string name="hy_orientation_login">7</string>
+    <!-- 支付頁面的方向 -->
+    <string name="hy_orientation_pay">7</string>
+    
+    <!-- facebook appid -->
+    <!--<string name="facebook_app_id">1523695954415165</string>-->
+    <!-- gp appid -->
+    <!--<integer name="google_play_services_version">10260000</integer>-->
+    <!-- bugly appid -->
+     <!--<string name="bugly_id">1df4acc72f</string>-->
+    
+    <!-- 游戏的主类名 -->
+    <!--<string name="game_main">com.gh.sdk.test.MainActivity</string>-->
+    
+    
+    <!-- firebase参数 -->
+    <!--<string name="default_web_client_id">99122648636-n3prj0vo1fb4samdll72ch2fe3ftd0l0.apps.googleusercontent.com</string>-->
+    <!--<string name="fcm_fallback_notification_channel_label">Miscellaneous</string>-->
+    <!--<string name="firebase_database_url">https://gd-game.firebaseio.com</string>-->
+    <!--<string name="gcm_defaultSenderId">99122648636</string>-->
+    <!--<string name="google_api_key">AIzaSyBpSm_UwimPM2OmCoJTpQBY4IobHlEDy-8</string>-->
+    <!--<string name="google_app_id">1:99122648636:android:42b728fcab58ee90</string>-->
+    <!--<string name="google_crash_reporting_api_key">AIzaSyBpSm_UwimPM2OmCoJTpQBY4IobHlEDy-8</string>-->
+    <!--<string name="google_storage_bucket">gd-game.appspot.com</string>-->
+    <!--<string name="project_id">gd-game</string>-->
+    
+    
+</resources>

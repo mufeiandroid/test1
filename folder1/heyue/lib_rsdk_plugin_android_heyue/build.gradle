@@ -1,0 +1,46 @@
+//apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.rsdk.framework.heyue"
+        minSdkVersion 15
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    android {
+        lintOptions {
+            checkReleaseBuilds false
+            // Or, if you prefer, you can continue to check for errors in release builds,
+            // but continue the build even when errors are found:
+            abortOnError false
+        }
+    }
+
+
+    repositories {
+        flatDir {
+            // 由于Library module中引用了 gif 库的 aar，在多 module 的情况下，
+            // 其他的module编译会报错，所以需要在所有工程的repositories
+            // 下把Library module中的libs目录添加到依赖关系中
+            dirs project(':heyuemodule').file('libs')
+        }
+    }
+}
+
+dependencies {
+    api project(':heyuemodule')
+    api fileTree(include: ['*.jar'], dir: 'libs')
+    api 'com.android.support:appcompat-v7:27.1.0'
+    api files('libs/org.apache.http.legacy.jar')
+    compileOnly files('/Users/Project/GitLab/rsdk-client-plugin-android/Android/Sample/AndroidStudio/RsdkDemo/app/libs/librsdkpluginprotocalforjava.jar')
+}

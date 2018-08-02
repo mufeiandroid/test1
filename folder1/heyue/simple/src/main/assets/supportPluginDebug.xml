@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	  <!--
+	  <support>
+	  		<user_plugin>
+	  			<param name="userdebug">UserDebug</param>
+	  		</user_plugin>
+	  		<iap_plugin>
+	  			<param name="iapdebug">IAPDebug</param>
+	  		</iap_plugin>
+	  		<push_plugin>
+	  			<param name="pushdebug">PushDebug</param>
+	  		</push_plugin>
+	  		<share_plugin>
+	  			<param name="sharedebug">ShareDebug</param>
+	  		</share_plugin>
+	  	</support> -->
+
+	  <!---->
+	   <!--<support>-->
+	  		<!--<user_plugin>-->
+	  			<!--<param name="UserJingQi" pluginId="700024" pluginName="heyue">UserHeyue</param>-->
+	  		<!--</user_plugin>-->
+	  		<!--<iap_plugin>-->
+	  			<!--<param name="IAPOnlineJingQi" pluginId="700024" pluginName="heyue">IAPOnlineHeyue</param>-->
+	  		<!--</iap_plugin>-->
+	  		<!--<social_plugin>-->
+	  		    <!--<param name= "SocialJingqiFacebook" pluginId="700024" pluginName="heyue">SocialHeyue</param>-->
+	  		<!--</social_plugin>-->
+	  		<!--<share_plugin>-->
+	  		    <!--<param name= "ShareJingqiFacebook" pluginId="700024" pluginName="heyue">ShareHeyue</param>-->
+	  		<!--</share_plugin>-->
+	  		 <!--<analytics_plugin>-->
+	  		    <!--<param name="AnalyticsDebug" pluginId="700024" pluginName="heyue">AnalyticsHeyue</param>-->
+	  		<!--</analytics_plugin>-->
+	  	<!--</support>-->
+	<!---->
+	<!--<?xml version='1.0' encoding='UTF-8'?>-->
+<support>
+<analytics_plugin>
+	<param name="heyue" pluginId="700024" pluginName="heyue">AnalyticsHeyue</param>
+</analytics_plugin>
+
+<user_plugin>
+	<param name="heyue" pluginId="700024" pluginName="heyue">UserHeyue</param>
+</user_plugin>
+
+<iap_plugin>
+	<param name="heyue" pluginId="700024" pluginName="heyue">IAPOnlineHeyue</param>
+</iap_plugin>
+
+<share_plugin>
+	<param name="heyue" pluginId="700024" pluginName="heyue">ShareHeyue</param>
+</share_plugin>
+
+<social_plugin>
+	<param name="heyue" pluginId="700024" pluginName="heyue">SocialHeyue</param>
+</social_plugin>
+</support>

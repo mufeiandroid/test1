@@ -1,0 +1,4 @@
+#Wed Aug 01 16:54:23 CST 2018
+base.0=/Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

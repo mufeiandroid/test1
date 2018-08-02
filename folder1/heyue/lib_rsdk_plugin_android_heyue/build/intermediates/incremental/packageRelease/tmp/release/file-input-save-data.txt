@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Aug 01 16:54:23 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/build/intermediates/transforms/dexMerger/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

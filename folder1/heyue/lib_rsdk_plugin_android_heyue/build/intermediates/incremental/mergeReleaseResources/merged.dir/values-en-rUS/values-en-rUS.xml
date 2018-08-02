@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gh_asset_plugin_null">Lack of resources under the raw directory, please check!</string>
+    <string name="gh_cancel">Cancel</string>
+    <string name="gh_cheack_file_md5_msg">Missing files, please re-download!</string>
+    <string name="gh_contact_service">Customer Care </string>
+    <string name="gh_conteact_service">Customer Care</string>
+    <string name="gh_download_error">Failed to download</string>
+    <string name="gh_exist">LOG OUT</string>
+    <string name="gh_loading_download_text">Downloading SDK update package...</string>
+    <string name="gh_loading_plugin_text">Loading SDK...</string>
+    <string name="gh_loading_text">Checking version...</string>
+    <string name="gh_notice_title">Game Notice</string>
+    <string name="gh_ok">Confirm</string>
+    <string name="gh_out_of_memory">Out of Memory</string>
+    <string name="gh_params_error_msg">Parameter can not be null</string>
+    <string name="gh_permission_cancel">Cancel</string>
+    <string name="gh_permission_msg">Because entering game by android 6.0+  requires permission. \m Please tap "settings" =>App info=>Game Name=>Permission=>Allow all permissions and then enter game.</string>
+    <string name="gh_permission_next">Next</string>
+    <string name="gh_permission_ok">Confirm</string>
+    <string name="gh_permission_retry">Retry</string>
+    <string name="gh_permission_setting">Go to set</string>
+    <string name="gh_permission_text1">Calendar</string>
+    <string name="gh_permission_text2">Camera</string>
+    <string name="gh_permission_text3">Contact List</string>
+    <string name="gh_permission_text4">Location information</string>
+    <string name="gh_permission_text5">Microphone</string>
+    <string name="gh_permission_text6">Device Information</string>
+    <string name="gh_permission_text7">Sensor</string>
+    <string name="gh_permission_text8">SMS</string>
+    <string name="gh_permission_text9">Storage</string>
+    <string name="gh_permission_title">Requests for permissions</string>
+    <string name="gh_permission_tpis_msg1">In order to use normally</string>
+    <string name="gh_permission_tpis_msg2">, we need the following info </string>
+    <string name="gh_permission_tpis_title">Open</string>
+    <string name="gh_prompt_content">Please update the latest package</string>
+    <string name="gh_retry">Retry</string>
+    <string name="gh_retry_error_msg">Too frequent request, please try again later!</string>
+    <string name="gh_sdk_error">SDK occurred error, code: </string>
+    <string name="gh_sdk_update_content">There is a new SDK version, please update to the latest package</string>
+    <string name="gh_text_newversion">New version v</string>
+    <string name="gh_update">Update</string>
+    <string name="gh_update_error_content">Failed to update version, please try again!</string>
+    <string name="gh_version_update_default">There is a new version, update or not?</string>
+</resources>

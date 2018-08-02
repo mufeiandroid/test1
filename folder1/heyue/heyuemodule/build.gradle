@@ -1,0 +1,40 @@
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 27
+    defaultConfig {
+//        applicationId "com.heyue.module"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'   // aar目录
+        }
+    }
+
+}
+
+dependencies {
+    api fileTree(include: ['*.jar'], dir: 'libs')
+    api 'com.android.support:appcompat-v7:27.1.0'
+
+    api (name:'bugly', ext:'aar')
+    api (name:'facebookcore-4.27.0', ext:'aar')
+    api (name:'facebooklogin-4.27.0', ext:'aar')
+    api (name:'firebasemessaging-10.2.6', ext:'aar')
+    api (name:'hysdkforoverseas', ext:'aar')
+}

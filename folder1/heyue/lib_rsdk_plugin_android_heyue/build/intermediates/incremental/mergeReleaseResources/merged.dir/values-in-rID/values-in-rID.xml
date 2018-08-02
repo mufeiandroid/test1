@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gh_asset_plugin_null">Kurang sumber daya di raw, cek dulu! </string>
+    <string name="gh_cancel">Batalkan</string>
+    <string name="gh_cheack_file_md5_msg">File hilang. Download lagi!</string>
+    <string name="gh_contact_service">Menghubungi CS</string>
+    <string name="gh_conteact_service">Menghubungi CS</string>
+    <string name="gh_download_error">Update gagal!</string>
+    <string name="gh_exist">LOG OUT</string>
+    <string name="gh_loading_download_text">Downloading Update</string>
+    <string name="gh_loading_plugin_text">Loading...</string>
+    <string name="gh_loading_text">Checking Update ...</string>
+    <string name="gh_notice_title">Pengumuman</string>
+    <string name="gh_ok">Yes</string>
+    <string name="gh_params_error_msg">Error</string>
+    <string name="gh_permission_cancel">Batalkan</string>
+    <string name="gh_permission_msg">Diperlukan selesai pengizinan. \n klik Setting => Aplikasi => Permitted  </string>
+    <string name="gh_permission_next">Next</string>
+    <string name="gh_permission_ok">Yes</string>
+    <string name="gh_permission_retry">Coba lagi</string>
+    <string name="gh_permission_setting">Setting</string>
+    <string name="gh_permission_text1">Kalender</string>
+    <string name="gh_permission_text2">Kamera</string>
+    <string name="gh_permission_text3">Daftar Kontak</string>
+    <string name="gh_permission_text4">Info Lokasi</string>
+    <string name="gh_permission_text5">Mikropon</string>
+    <string name="gh_permission_text6">Info Alat</string>
+    <string name="gh_permission_text7">Sensor</string>
+    <string name="gh_permission_text8">SMS</string>
+    <string name="gh_permission_text9">Memory internal</string>
+    <string name="gh_permission_title">Permisi</string>
+    <string name="gh_permission_tpis_msg1">Supaya bisa digunakan dengan normal</string>
+    <string name="gh_permission_tpis_msg2">, diperlukan info berikut</string>
+    <string name="gh_permission_tpis_title">Buka</string>
+    <string name="gh_prompt_content">Install Update</string>
+    <string name="gh_retry">Coba lagi</string>
+    <string name="gh_retry_error_msg">Error! Coba sebentar lagi!</string>
+    <string name="gh_sdk_error">SDK Error Code:</string>
+    <string name="gh_sdk_update_content">Ada update terbaru! Ayo update!</string>
+    <string name="gh_text_newversion">Versi Terbaru V</string>
+    <string name="gh_update">Update</string>
+    <string name="gh_update_error_content">Update gagal! Mencoba lagi!</string>
+    <string name="gh_version_update_default">Apakah perlu update versi terbaru?</string>
+</resources>

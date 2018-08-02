@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gh_asset_plugin_null">raw 리스트 오류. 확인해주세요!</string>
+    <string name="gh_cancel">취소</string>
+    <string name="gh_cheack_file_md5_msg">파일분실，다시 다운로드해주세요.</string>
+    <string name="gh_contact_service">고객센터를 연락부탁드립니다.</string>
+    <string name="gh_conteact_service">고객센터를 연락부탁드립니다.</string>
+    <string name="gh_download_error">다운로드 실패</string>
+    <string name="gh_exist">로그아웃</string>
+    <string name="gh_loading_download_text">SDK내용 다운로드중...</string>
+    <string name="gh_loading_plugin_text">SDK내용 로딩중...</string>
+    <string name="gh_loading_text">버전 확인중...</string>
+    <string name="gh_notice_title">공지</string>
+    <string name="gh_ok">확인</string>
+    <string name="gh_params_error_msg">파라미터오류.</string>
+    <string name="gh_permission_cancel">취소</string>
+    <string name="gh_permission_msg">android 6.0+버전으로 게임을 진행하시는 경우 권한부여에 허락을 받으셔야 합니다. \n설정=>앱=>접근권한 모든 허락해주세요.</string>
+    <string name="gh_permission_next">다음</string>
+    <string name="gh_permission_ok">확인</string>
+    <string name="gh_permission_retry">재시도</string>
+    <string name="gh_permission_setting">설치</string>
+    <string name="gh_permission_text1">캘린더</string>
+    <string name="gh_permission_text2">카메라</string>
+    <string name="gh_permission_text3">주소록</string>
+    <string name="gh_permission_text4">위치정보</string>
+    <string name="gh_permission_text5">마이크</string>
+    <string name="gh_permission_text6">장치정보</string>
+    <string name="gh_permission_text7">감지기</string>
+    <string name="gh_permission_text8">SMS</string>
+    <string name="gh_permission_text9">저장공간</string>
+    <string name="gh_permission_title">권한신청</string>
+    <string name="gh_permission_tpis_msg1">정상적으로 이용하기 위해서는</string>
+    <string name="gh_permission_tpis_msg2">,아래의 정보가 필요합니다.</string>
+    <string name="gh_permission_tpis_title">설치</string>
+    <string name="gh_prompt_content">최신버전으로 업데이트해주세요.</string>
+    <string name="gh_retry">재시도</string>
+    <string name="gh_retry_error_msg">잠시후에 재시도해주세요!</string>
+    <string name="gh_sdk_error">SDK오류코드 code:</string>
+    <string name="gh_sdk_update_content">최신SDK버전이 있습니다. 업데이트해주세요.</string>
+    <string name="gh_text_newversion">신버전 V</string>
+    <string name="gh_update">업데이트</string>
+    <string name="gh_update_error_content">버전업데이트 실패, 재시도해주세요.</string>
+    <string name="gh_version_update_default">최신버전이 있습니다. 업데이트를 하시겠습니까?</string>
+</resources>

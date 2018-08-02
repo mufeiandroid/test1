@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:heyuemodule] /Users/raywork/接入文档/黑道/heyue/heyuemodule/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/91d33d0aeceda8358305523896bde501/AndroidManifest.xml:17:1-22:12
+MERGED from [:bugly:] /Users/ray/.gradle/caches/transforms-1/files-1.1/bugly.aar/d074ad5c3cc9a3235a8ee6363b2c12e2/AndroidManifest.xml:2:1-11:12
+MERGED from [:facebookcore-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebookcore-4.27.0.aar/1758e4625f86b5cc42d358b6ada8ff84/AndroidManifest.xml:2:1-11:12
+MERGED from [:facebooklogin-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebooklogin-4.27.0.aar/01eb1d370347ec6d95cfe3e89b2ee159/AndroidManifest.xml:2:1-11:12
+MERGED from [:firebasemessaging-10.2.6:] /Users/ray/.gradle/caches/transforms-1/files-1.1/firebasemessaging-10.2.6.aar/13f9e3265e37b01323e19fbd53be48da/AndroidManifest.xml:2:1-11:12
+MERGED from [:hysdkforoverseas:] /Users/ray/.gradle/caches/transforms-1/files-1.1/hysdkforoverseas.aar/9269ae88e6723c3411fd4cb3966740c8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/2c09f86cceef879c821f7597c3bca40d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/50aaef9daa6f1c4588ebc31796494116/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d12d23d0f8592c2812bb7cc4f35eac4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bf316f1db5b86837d103bd4bf179b19f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c90a337b09dd4d627c31018a471b22f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5792d8930a787b81680a82c6102a7742/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c77153da5ba1728484ac1d904b9c4940/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3dbb192348041b8f16ccc9e4443dd05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b5f36f08d8f9a5b902d5c546ecbe6e19/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4620a4036395057587b4f1a45dd8bae3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+MERGED from [:heyuemodule] /Users/raywork/接入文档/黑道/heyue/heyuemodule/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-14:41
+MERGED from [:heyuemodule] /Users/raywork/接入文档/黑道/heyue/heyuemodule/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/91d33d0aeceda8358305523896bde501/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/91d33d0aeceda8358305523896bde501/AndroidManifest.xml:20:5-44
+MERGED from [:bugly:] /Users/ray/.gradle/caches/transforms-1/files-1.1/bugly.aar/d074ad5c3cc9a3235a8ee6363b2c12e2/AndroidManifest.xml:7:5-9:41
+MERGED from [:bugly:] /Users/ray/.gradle/caches/transforms-1/files-1.1/bugly.aar/d074ad5c3cc9a3235a8ee6363b2c12e2/AndroidManifest.xml:7:5-9:41
+MERGED from [:facebookcore-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebookcore-4.27.0.aar/1758e4625f86b5cc42d358b6ada8ff84/AndroidManifest.xml:7:5-9:41
+MERGED from [:facebookcore-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebookcore-4.27.0.aar/1758e4625f86b5cc42d358b6ada8ff84/AndroidManifest.xml:7:5-9:41
+MERGED from [:facebooklogin-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebooklogin-4.27.0.aar/01eb1d370347ec6d95cfe3e89b2ee159/AndroidManifest.xml:7:5-9:41
+MERGED from [:facebooklogin-4.27.0:] /Users/ray/.gradle/caches/transforms-1/files-1.1/facebooklogin-4.27.0.aar/01eb1d370347ec6d95cfe3e89b2ee159/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebasemessaging-10.2.6:] /Users/ray/.gradle/caches/transforms-1/files-1.1/firebasemessaging-10.2.6.aar/13f9e3265e37b01323e19fbd53be48da/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebasemessaging-10.2.6:] /Users/ray/.gradle/caches/transforms-1/files-1.1/firebasemessaging-10.2.6.aar/13f9e3265e37b01323e19fbd53be48da/AndroidManifest.xml:7:5-9:41
+MERGED from [:hysdkforoverseas:] /Users/ray/.gradle/caches/transforms-1/files-1.1/hysdkforoverseas.aar/9269ae88e6723c3411fd4cb3966740c8/AndroidManifest.xml:7:5-9:41
+MERGED from [:hysdkforoverseas:] /Users/ray/.gradle/caches/transforms-1/files-1.1/hysdkforoverseas.aar/9269ae88e6723c3411fd4cb3966740c8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/2c09f86cceef879c821f7597c3bca40d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/2c09f86cceef879c821f7597c3bca40d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/50aaef9daa6f1c4588ebc31796494116/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/50aaef9daa6f1c4588ebc31796494116/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d12d23d0f8592c2812bb7cc4f35eac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d12d23d0f8592c2812bb7cc4f35eac4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bf316f1db5b86837d103bd4bf179b19f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/bf316f1db5b86837d103bd4bf179b19f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c90a337b09dd4d627c31018a471b22f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c90a337b09dd4d627c31018a471b22f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5792d8930a787b81680a82c6102a7742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/5792d8930a787b81680a82c6102a7742/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c77153da5ba1728484ac1d904b9c4940/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c77153da5ba1728484ac1d904b9c4940/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3dbb192348041b8f16ccc9e4443dd05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c3dbb192348041b8f16ccc9e4443dd05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b5f36f08d8f9a5b902d5c546ecbe6e19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b5f36f08d8f9a5b902d5c546ecbe6e19/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4620a4036395057587b4f1a45dd8bae3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4620a4036395057587b4f1a45dd8bae3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+		ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+		ADDED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml
+		INJECTED from /Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/AndroidManifest.xml

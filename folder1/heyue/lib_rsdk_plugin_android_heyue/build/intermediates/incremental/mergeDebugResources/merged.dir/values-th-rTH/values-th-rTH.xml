@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gh_asset_plugin_null">ในคอนเทนท์rawขาดรีซอร์ส โปรดตรวจสอบ！</string>
+    <string name="gh_cancel">ยกเลิก</string>
+    <string name="gh_cheack_file_md5_msg">ไฟล์หาย โปรดลองใหม่！</string>
+    <string name="gh_contact_service">ติดต่อฝ่ายบริการ</string>
+    <string name="gh_conteact_service">ติดต่อฝ่ายบริการ</string>
+    <string name="gh_download_error">ดาวน์โหลดล้มเหลว</string>
+    <string name="gh_exist">ล็อกเอาท์</string>
+    <string name="gh_loading_download_text">กำลังโหลดไฟล์อัพเดทsdk..</string>
+    <string name="gh_loading_plugin_text">กำลังโหลดsdk...</string>
+    <string name="gh_loading_text">กำลังตรวจเวอร์ชั่น...</string>
+    <string name="gh_notice_title">ประกาศเกมส์</string>
+    <string name="gh_ok">ยืนยัน</string>
+    <string name="gh_params_error_msg">พารามิเตอร์ห้ามเป็นnull</string>
+    <string name="gh_permission_cancel">ยกเลิก</string>
+    <string name="gh_permission_msg">เนื่องจากใช้android6.0เล่น จึงต้องได้รับสิทธิ์ \nกรุณาไปที่การตั้งค่า=>ข้อมูลแอพลิเคชั่น=>อนุญาติสิทธิ์ทั้งหมด จากนั้นก็เล่นเกมส์ได้</string>
+    <string name="gh_permission_next">ขั้นต่อไป</string>
+    <string name="gh_permission_ok">ยืนยัน</string>
+    <string name="gh_permission_retry">ลองใหม่</string>
+    <string name="gh_permission_setting">ไปตั้งค่า</string>
+    <string name="gh_permission_text1">ปฏิทิน</string>
+    <string name="gh_permission_text2">กล้อง</string>
+    <string name="gh_permission_text3">รายการติดต่อ</string>
+    <string name="gh_permission_text4">ข้อมูลที่ตั้ง</string>
+    <string name="gh_permission_text5">ไมโครโฟน</string>
+    <string name="gh_permission_text6">ข้อมูลอุปกรณ์</string>
+    <string name="gh_permission_text7">เซนเซอร์</string>
+    <string name="gh_permission_text8">ข้อความ</string>
+    <string name="gh_permission_text9">พื้นที่ความจำ</string>
+    <string name="gh_permission_title">ขอสิทธิ์</string>
+    <string name="gh_permission_tpis_msg1">เพื่อให้คุณใช้ได้ปกติ</string>
+    <string name="gh_permission_tpis_msg2">，ต้องใช้ข้อมูลดังนี้</string>
+    <string name="gh_permission_tpis_title">เปิด</string>
+    <string name="gh_prompt_content">โปรดอัพเดทไฟล์ล่าสุด</string>
+    <string name="gh_retry">ลองใหม่</string>
+    <string name="gh_retry_error_msg">คำขอถี่ไป ลองใหม่ภายหลัง！</string>
+    <string name="gh_sdk_error">sdkผิดพลาดcode:</string>
+    <string name="gh_sdk_update_content">sdkมีเวอร์ชั่นใหม่  โปรดอัพเดทไฟล์ล่าสุด</string>
+    <string name="gh_text_newversion">เวอร์ชั่นใหม่V</string>
+    <string name="gh_update">อัพเดท</string>
+    <string name="gh_update_error_content">อัพเดทเวอร์ชั่นล้มเหลว โปรดลองใหม่!</string>
+    <string name="gh_version_update_default">ตอนนี้มีเวอร์ชั่นใหม่ จะต้องอัพเดทหรือไม่</string>
+</resources>

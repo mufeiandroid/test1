@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- sdk相關參數配置 -->
+
+
+    <!--以下是每個遊戲的配置參數，可以寫在string.xml上，也可以寫在AndroidManifest.xml，遊戲接入自己決定-->
+    <!--遊戲的gamecode-->
+    <string name="gameCode">HDGD</string>
+    <!--遊戲的名字-->
+    <string name="gameName">gameName</string>
+    
+
+
+    <!--以下是每個遊戲必須的配置參數，必須寫在string.xml上-->
+    <!-- facebook appid -->
+    <string name="facebook_app_id">248669115952780</string>
+    <!-- gp appid -->
+    <integer name="google_play_services_version">10260000</integer>
+    <!-- bugly appid -->
+     <string name="bugly_id">b8d18b69a2</string>
+    
+    <!-- 游戏的主类名 -->
+    <string name="game_main">com.gh.sdk.test.MainActivity</string>
+    
+
+    <!-- firebase参数 -->
+    <string name="default_web_client_id">957121443592-7tve4o8shdj7ucblmqimrutms7h9vtjc.apps.googleusercontent.com</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://hdgd-12d74.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">957121443592</string>
+    <string name="google_api_key">AIzaSyCLGo4NDN4d93X0aDwVt2t8RFteXjRJC5c</string>
+    <string name="google_app_id">1:957121443592:android:d090c4f96da822f4</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCLGo4NDN4d93X0aDwVt2t8RFteXjRJC5c</string>
+    <string name="google_storage_bucket">hdgd-12d74.appspot.com</string>
+    <string name="project_id">hdgd-12d74</string>
+    
+    
+</resources>

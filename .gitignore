@@ -1,1 +1,5 @@
-floder3/
+floder3
+bulid/*
+gradle/*
+.idea
+.gradle

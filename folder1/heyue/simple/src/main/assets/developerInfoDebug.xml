@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	  <developer>
+	  			<channel 
+	  					QHIsShowLoginColse="false" 
+	  					QHAutoLoginSwitch="true"
+	  					QHIsHideWelcome="false"
+	  					QHIsAutoLoginNoUI="false" 
+	  					QHIsAutoLoginFailShowUI= "false"
+	  					Orientation= "false"
+	  					QHExchangeRate="10"
+	  					idChannel="600019" 
+	  					whichChannel = "Google"
+	  					gameName = "guandou"
+	  					gameCode = "GD"
+						platform = "Google"
+						screenOrientation ="7"
+	  					checkBindURL = "http://user.heyyogame.com/queryUser/query"
+	  					oauthLoginServer="http://devsdk.raysns.com/chenpeng/rsdk-base-server/src/user/login"
+	  					privateKey="8505ED51CF9A766254A39F5762030153" 
+	  					uApiKey="eddb1e-133a7-ee34e-947d8-2357958f437" 
+	  					uApiSecret="2b8fd7d5efd69d7c442f3b56e36fb4878adae128" 
+	  					dw_Version="2.2.1" 
+	  					
+	  					r_big_app_id="devsdk" 
+	  					r_sub_app_id="supappid"
+	  					heyue_r_nofify_url="http://devsdk.raysns.com/xieyu/rsdk-base-server/src/pay/platform_pay_callback/devsdk/androidheyue/v1" 
+	  					heyue_r_order_url="http://devsdk.raysns.com/xieyu/rsdk-base-server/src/pay/create_order/devsdk/androidheyue/v1" 
+	  					heyue_r_sdk_platform="androidheyue" 
+	  					heyue_r_login_rsdkserver_version="v1" 
+	  					
+	  					/>
+	  </developer>

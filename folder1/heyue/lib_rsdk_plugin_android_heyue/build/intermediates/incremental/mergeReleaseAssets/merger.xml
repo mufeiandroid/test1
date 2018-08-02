@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":heyuemodule"><source path="/Users/raywork/接入文档/黑道/heyue/heyuemodule/build/intermediates/packagedAssets/release"/></dataSet><dataSet config="main"><source path="/Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/main/assets"/><source path="/Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/raywork/接入文档/黑道/heyue/lib_rsdk_plugin_android_heyue/src/release/assets"/></dataSet></merger>

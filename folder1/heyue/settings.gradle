@@ -1,0 +1,2 @@
+include ':simple',':heyuemodule'
+include ':lib_rsdk_plugin_android_heyue'
